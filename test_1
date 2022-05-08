@@ -1,0 +1,7 @@
+username = "Axiom-G"
+git_token = "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"
+repository = "Dog_v1"
+!git remote add origin https://{git_token}@github.com/{username}/{repository}.git
+!git remote -v
+!git push origin master 
+ 
